@@ -1,1 +1,1 @@
-Educational System in C
+Sistema de uma loja de informática para controle de clientes, funcionários e fornecedores. Controle de compras e  vendas de produtos, monitorando seu almoxarifado de estoque. O sistema permite o controle de contas a pagar e receber, e emissão de nota fiscal digital das vendas. A modelagem escolhida é a estruturada.
